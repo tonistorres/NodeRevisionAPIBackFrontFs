@@ -1,0 +1,29 @@
+.ct-main-home {
+    height: 99vh;
+    width: 99vw;
+    border: 5px solid #563D7C;
+    padding: 0;
+    margin: 0;
+
+}
+
+.over-custom {
+    overflow-y: scroll;
+}
+
+.color-custom-home {
+    color: #ffffff;
+}
+
+.border-custom-1 {
+    border: 5px solid green;
+}
+
+.bg-custom-home {
+    background-color: #563D7C;
+
+}
+
+.border-custom-2 {
+    border: 3px solid blue;
+}
